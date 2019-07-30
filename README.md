@@ -17,3 +17,7 @@ It has also just been changed
 Not yet deployed
 
 ## How to Contribute
+
+###
+
+Copyright Git Training 2019
