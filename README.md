@@ -18,6 +18,8 @@ Not yet deployed
 
 ## How to Contribute
 
+Please fork this repository anf then issue pull request for review
+
 ###
 
 Copyright Bob HAll Git Training 2019
