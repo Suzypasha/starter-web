@@ -1,6 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
+Adding a line to show rebase exampe
 
 ## Introduction
 
@@ -10,7 +11,6 @@ This is an example to show different parts of the Git repositry and various comm
 
 Sample website with plenty of files for demos and training. 
 It can be deployed on any web server or even locally
-It has also just been changed
 
 ## Deployment
 
@@ -18,8 +18,8 @@ Not yet deployed
 
 ## How to Contribute
 
-Please fork this repository anf then issue pull request for review
+Please fork this repository and then issue pull request for review
 
 ###
 
-Copyright Bob HAll Git Training 2019
+Copyright Rob HAll Git Training 2019
