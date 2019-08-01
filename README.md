@@ -22,4 +22,4 @@ Please fork this repository and then issue pull request for review
 
 ###
 
-Copyright Rob HAll Git Training 2019
+Copyright Rob HAll Git Training 2019 All Rights reserved
